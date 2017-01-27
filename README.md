@@ -1,2 +1,2 @@
-# Prend-Mon-Diab-te
+# Prend-Mon-Diabète
 Projet M2
